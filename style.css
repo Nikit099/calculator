@@ -1,0 +1,22 @@
+.btnt {
+    background: rebeccapurple;
+    color: white;
+    width: 60px;
+    height: 60px;
+}
+
+.count {
+    background: greenyellow;
+    color: rgb(0, 0, 0);
+    width: 60px;
+    height: 60px;
+    position: relative;
+    top: 60px;
+    left: -600px;
+}
+
+.text {
+    position: relative;
+    top: 30px;
+    font-size: 35px;
+}
